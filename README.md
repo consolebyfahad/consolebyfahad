@@ -231,16 +231,6 @@ Products evolve. I like building systems that can evolve with them.
 
 ---
 
-## 🏆 GitHub Highlights
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=consolebyfahad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 💼 Experience & Impact
 
 Over the years, I've worked on projects ranging from **client applications and business platforms to complete product ecosystems**.
