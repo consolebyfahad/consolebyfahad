@@ -1,17 +1,32 @@
 <div align="center">
 
-# Fahad ur Rehman
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Fahad%20ur%20Rehman&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Software%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 
-### Full-Stack & Mobile Software Engineer
+<a href="mailto:fahad00rehman@gmail.com">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+web+%26+mobile+products+end-to-end;React+%2F+Next.js+%2F+React+Native+%2F+Node.js;Idea+%E2%80%94%3E+Architecture+%E2%80%94%3E+Production;Currently+building+OSSTEL%2C+a+hostel+management+system&font=Fira+Code&center=true&width=750&height=50&color=61DAFB&vCenter=true&size=20&pause=1300" alt="Typing SVG"/>
+</a>
 
-Building web and mobile products end-to-end — from architecture to production.
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=fahadurrehman00&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Client%20Work-2EA44F?style=for-the-badge&logo=handshake&logoColor=white" alt="open to work"/>
+
+<br/>
 
 <a href="mailto:fahad00rehman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 <a href="https://www.linkedin.com/in/fahad0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake animation"/>
+
 </div>
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header" width="60%" alt="divider"/>
+</div>
 
 ## About
 
@@ -20,6 +35,10 @@ I work across the full stack — React and Next.js on the frontend, React Native
 I've built and shipped systems that include sign-in with Apple and Google, push notifications, real-time features, and admin dashboards with role-based access — the parts of a product that separate "it runs on my machine" from something people actually use.
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header" width="60%" alt="divider"/>
+</div>
 
 ## What I Build
 
@@ -39,6 +58,10 @@ Node.js and Express services, REST API design, and integration with SQL and NoSQ
 Dashboards with role-based access for products that need an operational side, not just a user-facing one.
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header" width="60%" alt="divider"/>
+</div>
 
 ## Tech Stack
 
@@ -77,6 +100,10 @@ Dashboards with role-based access for products that need an operational side, no
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header" width="60%" alt="divider"/>
+</div>
+
 ## Featured Project
 
 ### OSSTEL — Smart Hostel Management System
@@ -86,6 +113,10 @@ A management platform for hostels, built to handle the operational side of runni
 `Full-Stack` · `Admin Dashboard` · `Database Design` · `Production Deployment`
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header" width="60%" alt="divider"/>
+</div>
 
 ## Engineering Highlights
 
@@ -97,6 +128,10 @@ A management platform for hostels, built to handle the operational side of runni
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header" width="60%" alt="divider"/>
+</div>
+
 ## GitHub Activity
 
 <div align="center">
@@ -104,7 +139,23 @@ A management platform for hostels, built to handle the operational side of runni
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadurrehman00&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
 </div>
 
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=fahadurrehman00&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadurrehman00&theme=react-dark&hide_border=true&area=true" width="100%" alt="activity graph"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=fahadurrehman00&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+</div>
+
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header" width="60%" alt="divider"/>
+</div>
 
 ## Currently
 
@@ -121,4 +172,10 @@ Working on full-stack client products and React Native applications — from ini
 <a href="mailto:fahad00rehman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 <a href="https://www.linkedin.com/in/fahad0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by;Let%27s+build+something+solid&font=Fira+Code&center=true&width=450&height=35&color=0A66C2&vCenter=true&size=16&pause=1500" alt="footer typing"/>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=140&section=footer" width="100%" alt="footer"/>
