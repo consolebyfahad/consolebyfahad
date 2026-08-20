@@ -215,17 +215,17 @@ Products evolve. I like building systems that can evolve with them.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fahadurrehman00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=consolebyfahad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadurrehman00&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=fahadurrehman00&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=consolebyfahad&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadurrehman00&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://streak-stats.demolab.com/?user=consolebyfahad&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=consolebyfahad&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -235,7 +235,7 @@ Products evolve. I like building systems that can evolve with them.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=fahadurrehman00&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=consolebyfahad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
