@@ -215,12 +215,6 @@ Products evolve. I like building systems that can evolve with them.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=consolebyfahad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=consolebyfahad&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com/?user=consolebyfahad&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
