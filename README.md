@@ -61,7 +61,7 @@ Idea → Architecture → Development → Testing → Deployment → Scale
 
 ### Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,expo,redux,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark" />
 
 ### Backend & Databases
 
