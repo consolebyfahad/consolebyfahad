@@ -24,13 +24,13 @@
 
 ## 👋 About Me
 
-I'm **Fahad Ur Rehman**, a **Senior Software Engineer** focused on building reliable, scalable and user-friendly digital products.
+I'm **Fahad Ur Rehman**, a **Senior Software Engineer specializing in React Native and Full-Stack Development**.
 
-With **5+ years of software development experience**, I work across the full product lifecycle — from understanding an idea and designing the architecture to building, testing, deploying and continuously improving the final product.
+With **5+ years of software development experience**, I build scalable mobile and web applications, develop backend services, and turn product ideas into production-ready solutions.
 
-My strongest area is **React Native mobile development**, while I also build modern web applications and backend systems.
+My primary expertise is **React Native and Expo**, complemented by hands-on experience with React.js, Next.js, Node.js, Express.js and modern database technologies.
 
-I enjoy working on products where **engineering, product thinking and user experience** come together.
+I enjoy solving complex engineering problems, building intuitive user experiences, and developing products from concept to production.
 
 ```text
 Idea → Architecture → Development → Testing → Deployment → Scale
