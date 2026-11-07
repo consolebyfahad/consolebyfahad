@@ -4,13 +4,13 @@
 
 <br/>
 
-<a href="https://github.com/fahadurrehman00">
+<a href="https://github.com/consolebyfahad">
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+production-ready+web+%26+mobile+applications;React+%7C+React+Native+%7C+Node.js+%7C+Next.js;From+idea+to+MVP+to+production;Clean+architecture+%7C+Scalable+systems+%7C+Great+UX&font=Fira+Code&center=true&width=850&height=55&color=48CAE4&vCenter=true&size=21&pause=1300" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=fahadurrehman00&label=PROFILE%20VIEWS&color=0077B6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=consolebyfahad&label=PROFILE%20VIEWS&color=0077B6&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/Location-Pakistan-023E8A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 <img src="https://img.shields.io/badge/Open%20To-Opportunities-00B4D8?style=for-the-badge&logo=handshake&logoColor=white" alt="Open To Opportunities"/>
 
@@ -326,7 +326,7 @@ Smart Features
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/fahadurrehman00">
+<a href="https://github.com/consolebyfahad">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
