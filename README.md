@@ -36,7 +36,7 @@ I enjoy solving complex engineering problems, building intuitive user experience
 Idea → Architecture → Development → Testing → Deployment → Scale
 ```
 
-### What I Build
+## What I Build
 
 * 📱 Cross-platform mobile applications with **React Native & Expo**
 * 🌐 Modern web applications with **React & Next.js**
@@ -48,6 +48,7 @@ Idea → Architecture → Development → Testing → Deployment → Scale
 * 🤖 AI-powered application features and API integrations
 * ☁️ Cloud-connected applications and production deployments
 * 🚀 MVPs that can evolve into long-term products
+
 
 
 ## 🧰 Tech Stack
@@ -81,7 +82,7 @@ Idea → Architecture → Development → Testing → Deployment → Scale
 
 
 
-## 🚀 What I Do Best
+### 🚀 What I Do Best
 
 <table width="100%">
 <tr>
@@ -163,6 +164,7 @@ Working with modern services and APIs:
 </table>
 
 
+
 ## 🏗️ How I Approach Software
 
 <div align="center">
@@ -239,7 +241,7 @@ Some of the areas I've contributed to include:
 
 My focus is always on delivering software that is **stable, maintainable and ready for real users**.
 
----
+
 
 ## 🌱 Currently Exploring
 
