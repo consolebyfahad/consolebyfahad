@@ -49,7 +49,6 @@ Idea → Architecture → Development → Testing → Deployment → Scale
 * ☁️ Cloud-connected applications and production deployments
 * 🚀 MVPs that can evolve into long-term products
 
----
 
 ## 🧰 Tech Stack
 
@@ -80,7 +79,7 @@ Idea → Architecture → Development → Testing → Deployment → Scale
 
 </div>
 
----
+
 
 ## 🚀 What I Do Best
 
@@ -163,7 +162,6 @@ Working with modern services and APIs:
 </tr>
 </table>
 
----
 
 ## 🏗️ How I Approach Software
 
@@ -209,7 +207,7 @@ Products evolve. I like building systems that can evolve with them.
 </tr>
 </table>
 
----
+
 
 ## 📊 GitHub Activity
 
@@ -219,7 +217,7 @@ Products evolve. I like building systems that can evolve with them.
 
 </div>
 
----
+
 
 ## 💼 Experience & Impact
 
@@ -312,7 +310,7 @@ Smart Features
 
 </div>
 
----
+
 
 ## 📫 Let's Connect
 
